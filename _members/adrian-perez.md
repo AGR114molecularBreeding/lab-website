@@ -2,7 +2,7 @@
 name: Adrian Perez-Rial
 image: images/aperez.png
 description: PhD
-role: Student
+group: Student
 links:
   email: z12peria@uco.es
   twitter: Aprial97
