@@ -4,6 +4,8 @@ image: images/acarmona.png
 role: phd
 group: student
 links:
+  email: b62cajia@uco.es
+  twitter: @Aprial97
   github: b62cajia
 ---
 
