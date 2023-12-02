@@ -1,9 +1,11 @@
 ---
 ---
 
-# AGR114molecularBreeding's Website
+# AGR114 Molecular Breeding's Website
 
-An engaging 1-3 sentence description of your lab.
+This is the website of our academic research group in the Department of Genetics at the University of Cordoba.
+
+We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.
 
 {% include section.html %}
 
@@ -59,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Team Bioinfo.   
 
 {%
   include button.html
