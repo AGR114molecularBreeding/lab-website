@@ -5,7 +5,7 @@ description: PhD
 role: Student
 links:
   email: z12peria@uco.es
-  twitter: @Aprial97
+  twitter: Aprial97
   github: APerezRial
 ---
 
