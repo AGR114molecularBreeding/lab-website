@@ -1,5 +1,5 @@
 
-# AGR114molecularBreeding's Website
+# AGR114 Molecular Breeding's Website
 
 Visit **[agr114molecularbreeding.github.io/lab-website](https://agr114molecularbreeding.github.io/lab-website)** 🚀
 
