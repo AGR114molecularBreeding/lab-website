@@ -1,8 +1,8 @@
 ---
 name: Alejandro Carmona
 image: images/acarmona.png
-role: phd
-group: student
+description: PhD
+role: Student
 links:
   email: b62cajia@uco.es
   twitter: Aleexcj98
