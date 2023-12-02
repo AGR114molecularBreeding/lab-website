@@ -1,10 +1,12 @@
 ---
 name: Alejandro Carmona
-image: images/photo.jpg
+image: images/acarmona.png
 role: phd
-group: alum
+group: student
 links:
   github: b62cajia
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Predoctoral Researcher. Department of Genetics-ETSIAM. University of Cordoba.
+
+Read about me on the [2023 European Researchers' Night](https://lanochedelosinvestigadores.fundaciondescubre.es/investigador/alejandro-carmona-jimenez/).  
