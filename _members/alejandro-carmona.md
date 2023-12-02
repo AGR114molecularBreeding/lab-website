@@ -5,7 +5,7 @@ role: phd
 group: student
 links:
   email: b62cajia@uco.es
-  twitter: Aprial97
+  twitter: Aleexcj98
   github: b62cajia
 ---
 
