@@ -12,8 +12,8 @@
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
-  link: https://github.com/AGR114molecularBreeding/asparagus/
-  description: Totemhan ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: https://github.com/AGR114molecularBreeding/asparagus/index.md
+  description: Lorite ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - resource
